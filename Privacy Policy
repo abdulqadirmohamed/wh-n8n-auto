@@ -1,116 +1,80 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      max-width: 850px;
-      margin: 0 auto;
-      padding: 30px 20px;
-      color: #222;
-    }
-    h1 {
-      color: #111;
-    }
-    h2 {
-      margin-top: 30px;
-      color: #333;
-    }
-    .updated {
-      color: #666;
-      font-size: 14px;
-    }
-  </style>
-</head>
-<body>
+# Privacy Policy
 
-  <h1>Privacy Policy</h1>
-  <p class="updated">Last Updated: September 21, 2026</p>
+**Last Updated:** September 21, 2026
 
-  <h2>1. Introduction</h2>
-  <p>
-    This Privacy Policy explains how our WhatsApp chatbot
-    service collects, uses, and protects information when
-    users interact with our service through WhatsApp.
-  </p>
+## 1. Introduction
 
-  <p>
-    Our service uses the WhatsApp Business Platform provided
-    by Meta, n8n for workflow automation, and OpenAI for
-    AI-powered responses.
-  </p>
+This Privacy Policy explains how our WhatsApp chatbot service collects, uses, and protects information when users interact with our service through WhatsApp.
 
-  <h2>2. Information We Collect</h2>
-  <p>We may collect:</p>
-  <ul>
-    <li>WhatsApp phone number.</li>
-    <li>Messages sent to our WhatsApp number.</li>
-    <li>Information you voluntarily provide.</li>
-    <li>Technical information required to process messages.</li>
-  </ul>
+Our service uses the WhatsApp Business Platform provided by Meta, n8n for workflow automation, and OpenAI for AI-powered responses.
 
-  <h2>3. How We Use Your Information</h2>
-  <ul>
-    <li>Respond to WhatsApp messages automatically.</li>
-    <li>Provide customer support and information.</li>
-    <li>Process messages using AI.</li>
-    <li>Maintain and improve our chatbot service.</li>
-    <li>Troubleshoot technical issues.</li>
-  </ul>
+## 2. Information We Collect
 
-  <h2>4. Third-Party Services</h2>
-  <p>
-    Our chatbot may use Meta WhatsApp Business Platform,
-    n8n, and OpenAI to process and respond to messages.
-    These services may process information according to
-    their respective privacy policies and terms.
-  </p>
+When you interact with our WhatsApp chatbot, we may collect:
 
-  <h2>5. Data Retention</h2>
-  <p>
-    We retain information only for as long as necessary
-    to operate our service, provide support, meet legitimate
-    business requirements, or comply with applicable laws.
-  </p>
+- WhatsApp phone number.
+- Messages sent to our WhatsApp number.
+- Information you voluntarily provide during conversations.
+- Technical information required to process and respond to messages.
 
-  <h2>6. Data Security</h2>
-  <p>
-    We take reasonable measures to protect information
-    against unauthorized access, loss, misuse, or disclosure.
-    However, no electronic transmission or storage method
-    is completely secure.
-  </p>
+We only collect information necessary to operate and improve our chatbot service.
 
-  <h2>7. Data Sharing</h2>
-  <p>
-    We do not sell users' personal information.
-    We may share information with service providers
-    necessary to operate our chatbot, including Meta,
-    n8n hosting providers, and OpenAI.
-  </p>
+## 3. How We Use Your Information
 
-  <h2>8. User Rights</h2>
-  <p>
-    Depending on applicable laws, users may request access,
-    correction, or deletion of their personal information.
-    Contact us using the details below to submit a request.
-  </p>
+We may use collected information to:
 
-  <h2>9. Changes to This Privacy Policy</h2>
-  <p>
-    We may update this Privacy Policy from time to time.
-    Changes will be published on this page with an updated date.
-  </p>
+- Respond to WhatsApp messages automatically.
+- Provide customer support and information.
+- Process and understand messages using AI.
+- Maintain and improve our chatbot service.
+- Monitor and troubleshoot technical issues.
 
-  <h2>10. Contact Us</h2>
-  <p>
-    Email: cajiibxaaji02@gmail.com
-  </p>
+## 4. Third-Party Services
 
-</body>
-</html>
+Our chatbot may use the following third-party services:
+
+- **Meta WhatsApp Business Platform:** To send and receive WhatsApp messages.
+- **n8n:** To automate workflows and process messages.
+- **OpenAI:** To process messages and generate AI-powered responses.
+
+Information sent to third-party services may be processed according to their respective privacy policies and terms of service.
+
+## 5. Data Retention
+
+We retain information only for as long as necessary to operate our service, provide support, meet legitimate business requirements, or comply with applicable legal obligations.
+
+## 6. Data Security
+
+We take reasonable measures to protect information against unauthorized access, loss, misuse, or disclosure.
+
+However, no method of electronic transmission or storage is completely secure.
+
+## 7. Data Sharing
+
+We do not sell users' personal information.
+
+We may share information with service providers that help us operate our chatbot, including Meta, n8n hosting providers, and OpenAI, where necessary to provide the service.
+
+We may also disclose information when required by law or to protect our legal rights.
+
+## 8. User Rights
+
+Depending on applicable laws, users may request:
+
+- Access to their personal information.
+- Correction of inaccurate information.
+- Deletion of their personal information.
+- Information about how their data is processed.
+
+To submit a request, please contact us using the contact details below.
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be published on this page with an updated revision date.
+
+## 10. Contact Us
+
+**Email:** cajiibxaaji02@gmail.com
+
+**Service:** WhatsApp Automatic Reply Chatbot
